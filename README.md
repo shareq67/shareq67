@@ -1,5 +1,11 @@
 
 <div align="center">
+  <img src="assets/profile-banner.gif" width="100%" alt="Khaja Shareque - Azure Cloud and DevOps Engineer">
+</div>
+
+<br/>
+
+<div align="center">
 
 # Khaja Shareque 👋
 
