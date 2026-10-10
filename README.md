@@ -1,16 +1,42 @@
-## Hi there 👋
+Infrastructure • Automation • Kubernetes • Observability
 
-<!--
-**shareq67/shareq67** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Professional Summary
+Azure cloud operations, infrastructure provisioning, monitoring and systematic troubleshooting.
 
-Here are some ideas to get you started:
+Core Expertise Matrix
+Cloud · DevOps & IaC · Containers · Networking · Monitoring · Security
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+Tech Stack & Official Documentation
+Azure
+Terraform
+Docker
+Kubernetes
+Azure DevOps
+Linux
+Prometheus
+Grafana
+
+
+
+Featured Projects
+Azure + Terraform
+Infrastructure as Code
+
+
+Azure DevOps
+CI/CD pipelines
+
+
+AKS Lab
+Deployment & troubleshooting
+
+
+Monitoring Lab
+Logs, metrics & alerts
+
+
+
+
+
+Certifications · Current Focus · GitHub Stats · Connect With Me
