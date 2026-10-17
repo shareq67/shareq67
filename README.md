@@ -78,6 +78,7 @@ Projects will be linked here after implementation.
 - Microsoft Certified: Azure Administrator Associate (AZ-104)
 - Microsoft Certified: Azure Solutions Architect Expert (AZ-305)
 - Microsoft Certified: Azure Fundamentals (AZ-900)
+- Microsoft Certified: Azure DevOps Engineer Expert (AZ-400)
 - AWS Certified Cloud Practitioner
 
 ## 🤝 Connect With Me
